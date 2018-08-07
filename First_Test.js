@@ -34,3 +34,4 @@ eventListeners = require('events').EventEmitter.listenerCount(eventEmitter,'conn
 console.log(eventListeners + " 个监听器监听连接事件。");
 
 console.log("程序执行完毕。");
+console.log("程序执行");
