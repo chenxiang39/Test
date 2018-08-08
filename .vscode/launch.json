@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "启动程序",
-            "program": "${workspaceFolder}/First_Test.js"
+            "program": "${workspaceFolder}/Second_Test.js"
         }
     ]
 }

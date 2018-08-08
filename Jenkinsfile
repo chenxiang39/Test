@@ -6,6 +6,7 @@ pipeline{
 			steps
 			{
 				sh 'node First_Test.js'
+				sh 'node Second_Test.js'
 			}
 
 		}
